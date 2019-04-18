@@ -9,6 +9,13 @@ h1 {
     line-height: 1.5;
 }
 
+h2 {
+  font-family: "Montserrat-bold";
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
 #title {
     background-color: #ff4c68;
     color: white;
@@ -77,4 +84,19 @@ h1 {
 
 .feature-description {
     color: #8f8f8f;
+}
+
+/* Testimonial Section */
+
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
+
+.testimonial-image {
+  width: 15%;
+  border-radius: 100%;
+  margin: 20px;
 }
